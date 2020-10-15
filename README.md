@@ -2,11 +2,11 @@
 
 >这是一个简单的全栈web App，基于Deno + Vue + Mysql
 
-##Client
+## Client
 
 >运行在Brower(浏览器)里的应用程序'code'。(html +js +css)
 
-##Server
+## Server
 
 >运行在Linux的web服务
 
@@ -39,7 +39,7 @@ deno run --allow-net mod.js
 
 curl localhost:8080
 ```
-##DateBase
+## DateBase
 
 >持久化数据，保存Brower浏览器端用户需要的数据
 
