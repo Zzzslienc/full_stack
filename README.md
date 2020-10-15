@@ -14,8 +14,12 @@
 
 -响应浏览器HTTP请求
 
+'''sh
 sudo apt intsall unzip
 
+sudo cp .deno/bin/deno /usr/bin
+
+'''sh
 ##DateBase
 
 >持久化数据，保存Brower浏览器端用户需要的数据
