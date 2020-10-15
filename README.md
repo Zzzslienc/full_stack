@@ -5,6 +5,7 @@
 ## Client
 
 >运行在Brower(浏览器)里的应用程序'code'。(html +js +css)
+
 基于 Vue.js 实现了 html 静态页面
 
 ## Server
