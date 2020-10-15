@@ -13,8 +13,7 @@
 功能：
 
 -响应浏览器HTTP请求
-
-```sh
+```
 # 安装 unzip 解压工具
 sudo apt install unzip
 
@@ -29,11 +28,9 @@ sudo cp .deno/bin/deno /usr/bin
 deno --version
 
 git clone https://仓库地址
-
-```sh
-
-mod.js
-```sh
+```
+-mod.js
+```
 touch mod.js
 
 vim mod.js # add hellowold.
@@ -41,7 +38,7 @@ vim mod.js # add hellowold.
 deno run --allow-net mod.js
 
 curl localhost:8080
-```sh
+```
 ##DateBase
 
 >持久化数据，保存Brower浏览器端用户需要的数据
