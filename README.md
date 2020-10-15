@@ -5,6 +5,7 @@
 ## Client
 
 >运行在Brower(浏览器)里的应用程序'code'。(html +js +css)
+基于 Vue.js 实现了 html 静态页面
 
 ## Server
 
@@ -12,7 +13,7 @@
 
 功能：
 
--响应浏览器HTTP请求
+- 响应浏览器HTTP请求
 ```
 # 安装 unzip 解压工具
 sudo apt install unzip
@@ -41,5 +42,9 @@ curl localhost:8080
 ```
 ## DateBase
 
->持久化数据，保存Brower浏览器端用户需要的数据
+>持久化数据，保存Brower浏览器端用户需要的数据静态资源服务器
+
+## 静态资源服务器
+serve html file
+
 
